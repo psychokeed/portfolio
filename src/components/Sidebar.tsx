@@ -42,7 +42,7 @@ export default function Sidebar({ isOpen, onNavigate }: SidebarProps) {
       ))}
 
       <div className="sidebar-note">
-        20-year-old fullstack software engineer building fintech-integrated
+        Fullstack software engineer building fintech-integrated
         software for the Kenyan market — MERN stack, Python, and scalable
         web solutions.
       </div>
